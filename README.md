@@ -1,5 +1,23 @@
-# Get to know Sonu via npm `npx sonu`
+## Get to know Sonu via npm `npx sonukushwaha`
 
+---
+
+### Getting started
+
+[![NPM](https://nodei.co/npm/sonukushwaha.png?compact=true)](https://www.npmjs.com/package/sonukushwaha)
+
+```bash
+$ npm install sonukushwaha
+```
+
+```bash
+$ npx sonukushwaha
+```
+
+<br/>
+
+
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flyingsonu122/sonukushwaha.svg?logo=github&style=social)](https://www.npmjs.com/package/sonukushwaha) [![npm](https://img.shields.io/npm/dy/sonukushwaha.svg?logo=npm&style=social)](https://www.npmjs.com/package/sonukushwaha) [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/sonukushwaha.svg?logo=git&style=social)](https://github.com/flyingsonu122/sonukushwaha) [![GitHub top language](https://img.shields.io/github/languages/top/flyingsonu122/sonukushwaha.svg?logo=javascript&logoColor=yellow&style=social)](https://github.com/flyingsonu122/sonukushwaha) [![Maintenance](https://img.shields.io/maintenance/yes/2021.svg?logo=npm&style=social)](https://github.com/flyingsonu122/sonukushwaha)
 
 <br><br><br>
 

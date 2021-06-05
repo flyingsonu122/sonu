@@ -1,9 +1,9 @@
 {
-  "name": "sonu",
+  "name": "sonukushwaha",
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
-    "sonu": "index.js"
+    "sonukushwaha": "index.js"
   },
   "keywords": [],
   "author": "Sonu Kumar Kushwaha <flyingsonu736@gmail.com>",
@@ -19,5 +19,5 @@
     "url": "https://github.com/flyingsonu122/sonu/issues"
   },
   "homepage": "https://github.com/flyingsonu122/sonu#readme",
-  "description": "Get to know Sonu via npm `npx sonu`"
+  "description": "Get to know Sonu via npm `npx sonukushwaha`"
 }
