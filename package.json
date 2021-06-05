@@ -1,0 +1,23 @@
+{
+  "name": "sonu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "sonu": "index.js"
+  },
+  "keywords": [],
+  "author": "Sonu Kumar Kushwaha <flyingsonu736@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyingsonu122/sonu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/flyingsonu122/sonu/issues"
+  },
+  "homepage": "https://github.com/flyingsonu122/sonu#readme",
+  "description": ""
+}
