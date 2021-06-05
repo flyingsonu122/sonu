@@ -1,14 +1,15 @@
 ## Get to know Sonu via npm `npx sonukushwaha`
 
----
-
-### Getting started
+<br><br><br>
 
 [![NPM](https://nodei.co/npm/sonukushwaha.png?compact=true)](https://www.npmjs.com/package/sonukushwaha)
+
+<br>
 
 ```bash
 $ npm install sonukushwaha
 ```
+<br>
 
 ```bash
 $ npx sonukushwaha
