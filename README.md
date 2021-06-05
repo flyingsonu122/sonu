@@ -7,7 +7,7 @@
 <br>
 
 ```bash
-$ npm install sonukushwaha
+$ npm install -g sonukushwaha
 ```
 <br>
 
