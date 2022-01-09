@@ -1,6 +1,6 @@
 {
   "name": "sonukushwaha",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "main": "index.js",
   "bin": {
     "sonukushwaha": "index.js"
@@ -13,11 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flyingsonu122/sonu.git"
+    "url": "git+https://github.com/flyingsonu122/sonukushwaha.git"
   },
   "bugs": {
-    "url": "https://github.com/flyingsonu122/sonu/issues"
+    "url": "https://github.com/flyingsonu122/sonukushwaha/issues"
   },
-  "homepage": "https://github.com/flyingsonu122/sonu#readme",
-  "description": "Get to know Sonu via npm `npx sonukushwaha`"
+  "homepage": "https://github.com/flyingsonu122/sonukushwaha#readme",
+  "description": "Get to know Sonu Kushwaha via npm `npx sonukushwaha`"
 }
