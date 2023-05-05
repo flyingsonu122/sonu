@@ -2,7 +2,7 @@
 
 console.log(`
 
-Sonu Kumar Kushwaha  
+Hi
 
 I'm Sonu kumar kushwaha from India, born in Gopalganj, a sunny place in the state of Bihar. A computer science student, Passionate reader. 
 
@@ -13,9 +13,12 @@ If you just want to email me, go ahead send an email to flyingsonu736@gmail.com 
 
 That's me, today. I'll be different tomorrow, hopefully better.
 
+😎 Portfolio:   https://singlebucks.blogspot.com
 
 🐤 Twitter:     https://twitter.com/iamsonukushwaha
+
 📖 GitHub:      https://github.com/flyingsonu122
-😎 Portfolio:   https://singlebucks.blogspot.com
+
+
 
 `);
