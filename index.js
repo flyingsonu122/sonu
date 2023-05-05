@@ -16,6 +16,6 @@ That's me, today. I'll be different tomorrow, hopefully better.
 
 🐤 Twitter:     https://twitter.com/iamsonukushwaha
 📖 GitHub:      https://github.com/flyingsonu122
-😎 Portfolio:   https://sonukushwaha.me
+😎 Portfolio:   https://singlebucks.blogspot.com
 
 `);
