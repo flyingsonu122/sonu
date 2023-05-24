@@ -1,16 +1,17 @@
 {
   "name": "sonukushwaha",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "main": "index.js",
   "bin": {
     "sonukushwaha": "index.js"
   },
-  "keywords": [],
+  "keywords": ["Sonu Kumar Kushwaha"],
   "author": "Sonu Kumar Kushwaha <flyingsonu736@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/flyingsonu122/sonukushwaha.git"
@@ -19,5 +20,8 @@
     "url": "https://github.com/flyingsonu122/sonukushwaha/issues"
   },
   "homepage": "https://github.com/flyingsonu122/sonukushwaha#readme",
-  "description": "Get to know Sonu Kushwaha via npm `npx sonukushwaha`"
+  "description": "Get to know Sonu Kushwaha via npm `npx sonukushwaha`",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
 }
