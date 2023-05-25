@@ -2,7 +2,11 @@
 
 import chalk from 'chalk';
 
-console.log(chalk.blue(`Hi
+console.log(chalk.blue(`
+
+
+
+Hi
 
 I'm ${chalk.rgb(255, 136, 0).bold('Sonu Kumar Kushwaha')} from India, born in Gopalganj, a sunny place in the state of Bihar. A computer science student, Passionate reader. 
 
@@ -18,5 +22,7 @@ ${chalk.white("That's me, today. I'll be different tomorrow, hopefully better.")
 🐤 Twitter:    ${chalk.yellow('https://twitter.com/iamsonukushwaha')}
 
 📖 GitHub:     ${chalk.yellow('https://github.com/flyingsonu122')}
+
+
 
 `));
