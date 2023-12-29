@@ -21,7 +21,7 @@ ${chalk.white("That's me, today. I'll be different tomorrow, hopefully better.")
 
 🐤 Twitter:    ${chalk.yellow('https://twitter.com/iamsonukushwaha')}
 
-📖 GitHub:     ${chalk.yellow('https://github.com/flyingsonu122')}
+📖 GitHub:     ${chalk.yellow('https://github.com/iamsonukushwaha')}
 
 
 

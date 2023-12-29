@@ -1,6 +1,6 @@
 {
   "name": "sonukushwaha",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "main": "index.js",
   "bin": {
     "sonukushwaha": "index.js"
@@ -14,12 +14,12 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flyingsonu122/sonukushwaha.git"
+    "url": "git+https://github.com/iamsonukushwaha/sonukushwaha.git"
   },
   "bugs": {
-    "url": "https://github.com/flyingsonu122/sonukushwaha/issues"
+    "url": "https://github.com/iamsonukushwaha/sonukushwaha/issues"
   },
-  "homepage": "https://github.com/flyingsonu122/sonukushwaha#readme",
+  "homepage": "https://github.com/iamsonukushwaha/sonukushwaha#readme",
   "description": "Get to know Sonu Kushwaha via npm `npx sonukushwaha`",
   "dependencies": {
     "chalk": "^5.2.0"
