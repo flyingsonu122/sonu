@@ -1,4 +1,11 @@
-## Get to know Sonu Kushwaha via npm `npx sonukushwaha`
+## Get to know about Sonu Kumar Kushwaha 
+
+
+Go to your terminal and type: 
+```
+npx sonukushwaha
+```
+
 
 <br><br><br>
 
@@ -6,29 +13,24 @@
 
 <br>
 
-**Run command below to install package**
+**Run below command on terminal to install package**
 
-```bash
-$ npm install -g sonukushwaha
 ```
+npm install -g sonukushwaha
+```
+
+then type: 
+```
+npx sonukushwaha
+```
+
 <br>
 
 
-**Run command below to know about Sonu Kushwaha**
-
-
-```bash
-$ npx sonukushwaha
-```
-
-<br/>
+**MIT &copy; [Sonu Kumar Kushwaha](https://singlebucks.blogspot.com)**
 
 
 
-**MIT &copy; [Sonu kumar kushwaha](https://singlebucks.blogspot.com/)**
-
-
-
-Thank you for being here! You can find my other projects **[here](https://github.com/iamsonukushwaha?tab=repositories)**.
+Thank you for being here! You can find my other projects **[here](https://github.com/iamsonukushwaha?tab=repositories)**
 
 
